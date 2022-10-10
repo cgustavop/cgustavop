@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gustavo
+- 👀 I’m interested in coding and visual arts
+- 🌱 I’m currently learning Software Engineering @ University of Minho
+- 📫 You can contact me through my email carlosgsp39@gmail.com
